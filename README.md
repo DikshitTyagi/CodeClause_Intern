@@ -2,6 +2,7 @@
 Project-1
 
 Random Password Generator in Python
+----------------------------------------
 
 Step1: Firstly, Import necessary modules ( Tkinter, pyperclip and random)
 
