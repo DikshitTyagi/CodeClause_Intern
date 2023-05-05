@@ -20,4 +20,21 @@ Step7: Then, Create Button widgets and set commands as per the above-defined met
 
 Step8: Finally, Run an infinite main loop to run the application.
 
-**This is my allocated project of codeclause internship
+**This is my allocated project of codeclause internship 
+
+
+
+
+# Project -2 
+
+Calculator in Python
+-----------------------
+* Import everything from the Tkinter using *.
+
+* Create an interface for the calculator.
+
+* Create an input function that enters a number into the input field.
+
+* Create an apparent function that wipes everything from the input field.
+
+* And finally, evaluate function that computes and gives the result of the expression.
