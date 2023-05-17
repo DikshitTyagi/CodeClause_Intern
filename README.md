@@ -38,3 +38,12 @@ Calculator in Python
 * Create an apparent function that wipes everything from the input field.
 
 * And finally, evaluate function that computes and gives the result of the expression.
+
+
+
+# Golden Projects (optional)
+
+# Speed Typing Test in Python
+----------------------------------
+ we will develop a typing test that will help in improving your speed and accuracy. The user will be given 60 seconds and the user has to write as many words as possible that are displayed on the screen within the given time frame. After completion of time the final score will be displayed to the user along with the number of wrong words entered.
+
